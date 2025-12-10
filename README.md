@@ -27,7 +27,7 @@ Unlike standard cleanup scripts, `s3-tidy` includes a **Cost Estimation Engine**
 
 ```bash
 # Clone and build locally
-git clone [https://github.com/johnaslinger/s3-tidy.git](https://github.com/johnaslinger/s3-tidy.git)
+git clone [https://github.com/aslinger/s3-tidy.git](https://github.com/aslinger/s3-tidy.git)
 cd s3-tidy
 go build -o s3-tidy main.go
 
